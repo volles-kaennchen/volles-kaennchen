@@ -1,6 +1,6 @@
 ### Hi gorgeous.. 👋
 
-## ** * "Computers are just rocks we tricked into thinking by putting lightning inside of them." 💻✨ * **
+## ***"Computers are just rocks we tricked into thinking by putting lightning inside of them." 💻✨***
 
 
 -    🌱 stubborn girl in the middle of her 20s, always honest as my ♊︎
