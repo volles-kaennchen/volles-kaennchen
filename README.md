@@ -9,7 +9,7 @@
 
 -    🏠 Erfurt, where people scent the wind with noses of uncommon keennes..
 
--    👨‍🎓 IT Secialist on time
+-    👨‍🎓 IT Specialist on time
 
 -    ✨ mother of cats ✨
 
