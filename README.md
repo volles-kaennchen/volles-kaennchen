@@ -12,7 +12,7 @@
 ...currently I am a 🗿 with tendency to be an ⛰️
 
 *You're still strolling around here? Maby check my Insta, but be warned - may scales fall from your eyes..💅* 
-(https://www.instagram.com/benutzernichtverfuegbar)
+https://www.instagram.com/benutzernichtverfuegbar
 
 
 <!--
