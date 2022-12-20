@@ -9,6 +9,8 @@
 
 -    🏠 Erfurt, where people scent the wind with noses of uncommon keennes..
 
+-    👨‍🎓 IT Secialist on time
+
 -    ✨ mother of cats ✨
 
 ...currently I am a 🗿 with tendency to be an ⛰️
