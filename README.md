@@ -9,14 +9,7 @@
 
 -    🏠 Erfurt, where people scent the wind with noses of uncommon keennes..
 
--    👨‍🎓 IT Specialist on time
-
--    ✨ mother of cats ✨
-
 ...currently I am a 🗿 with tendency to be an ⛰️
-
-*You're still strolling around here? Maby check my Insta, but be warned - may scales fall from your eyes..💅* 
-https://www.instagram.com/benutzernichtverfuegbar
 
 
 <!--
