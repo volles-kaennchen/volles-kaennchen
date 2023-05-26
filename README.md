@@ -9,12 +9,10 @@
 
 -    🏠 Erfurt, where people scent the wind with noses of uncommon keennes..
 
-...currently I am a 🗿 with tendency to be an ⛰️
+
+Oh... did I mention that I still can't decide between my current IT specialist education and web design or application development? 
+So I'm learning all this stuff on my own! ...currently I am a coding 🗿 with tendency to be an ⛰️.
+
+- 💬 Feel free to contact 
 
 
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-📫 How to reach me: ...
--->
