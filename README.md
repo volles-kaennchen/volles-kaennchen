@@ -12,6 +12,5 @@
 Oh... & did I mention that I still can't decide between my current IT specialist education and web design or application development?
 So I'm learning all of this stuff on my own! ...currently I am a coding 🗿 with tendency to be an ⛰️.
 
-- 💬 Feel free to contact me: webmaster@v-aquarium.de
 
 
