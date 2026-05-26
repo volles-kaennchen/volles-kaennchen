@@ -2,7 +2,7 @@
 
 ## ***"Computers are just rocks we tricked into thinking by putting lightning inside of them." 💻✨***
 
-### 💻 My Tech Stack
+### 💻 What's inside Big-Big Brain?
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white"/>
