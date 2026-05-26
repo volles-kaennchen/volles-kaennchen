@@ -2,13 +2,15 @@
 
 ### About me: 
 
-## ***"Computers are just rocks we tricked into thinking by putting lightning inside of them." 💻✨***
+💫 Zillennial: Being born in the late 90s is like arriving at the right station just as the bus is pulling away — you’re there on time, but somehow already assigned to the next generation before you even sit down.
 
 🌱 I'm currently working on my RGB pad. 
     There's so much exciting stuff to explore - from simple lighting effects to tricky puzzles. 
     Or maybe it'll end up being a colorful keyboard after all? 
-    As always, you can find the code in the repository.
-    
+    As always, you can find the code in the repository. 👉❤️👈
+
+⚡ Fun fact: Computers are just rocks we tricked into thinking by putting lightning inside of them.✨
+
 ### 💻 What's inside Big-Big Brain?
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
