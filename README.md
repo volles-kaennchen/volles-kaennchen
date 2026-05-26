@@ -4,7 +4,7 @@
 
 💫 Zillennial: Being born in the late 90s is like arriving at the right station just as the bus is pulling away — you’re there on time, but somehow already assigned to the next generation before you even sit down.
 
-🌱 IT specialist who loves tinkering with containers. Whether it's administration or development stuff. 
+🌱 IT specialist who loves tinkering with containers. - Whether it's administration or development. 
 
 🔭 I’m currently working with MicroPython, especially on my RGB keypad. 
     There's so much exciting stuff to explore - from simple lighting effects to tricky puzzles. 
