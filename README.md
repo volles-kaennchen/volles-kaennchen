@@ -1,7 +1,14 @@
 ### Hi gorgeous.. 👋
 
+### About me: 
+
 ## ***"Computers are just rocks we tricked into thinking by putting lightning inside of them." 💻✨***
 
+🌱 I'm currently working on my RGB pad. 
+    There's so much exciting stuff to explore - from simple lighting effects to tricky puzzles. 
+    Or maybe it'll end up being a colorful keyboard after all? 
+    As always, you can find the code in the repository.
+    
 ### 💻 What's inside Big-Big Brain?
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
