@@ -6,11 +6,6 @@
 
 🌱 IT specialist who loves tinkering with containers. - Whether it's administration or development. 
 
-🔭 I’m currently working with MicroPython, especially on my RGB keypad. 
-    There's so much exciting stuff to explore - from simple lighting effects to tricky puzzles. 
-    Or maybe it'll end up being a colorful keyboard after all? 
-    As always, you can find the code in the repository. 👉❤️👈
-
 ⚡ Fun fact: Computers are just rocks we tricked into thinking by putting lightning inside of them.✨
 
 ### 💻 What's inside Big-Big Brain?
